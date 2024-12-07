@@ -1,4 +1,3 @@
-Good mornin
+Good morning
 
-Test my commit
-g
+Commit on new Feature branch
